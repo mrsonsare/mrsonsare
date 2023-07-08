@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://instagram.com/mr.sonsare" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="c" width="80" height="40"/> </a>
-
+    <a href="https://linkedin.com/in/Harshal Sonsare" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="c" width="80" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
