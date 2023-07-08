@@ -16,7 +16,7 @@
 - 📫 How to reach me **mrsonsare@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> <a href="https://instagram.com/mr.sonsare" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="c" width="80" height="40"/> </a>
 
 </p>
 
