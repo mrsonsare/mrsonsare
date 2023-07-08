@@ -24,12 +24,11 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </p>
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mrsonsare&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="mrsonsare" /> 
+    
 
-
-
-
-<a href="https://gitstats.me/okoliechykwuka">
-    <img width="419" height="auto" align="right" alt="Joykishan's github stats" 
+   <a> <img width="419" height="auto" align="right" alt="Joykishan's github stats" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=mrsonsare&theme=dark&hide_border=false" />
-</a></p>
+</a>
+<img width="419" height="auto" align="left" alt="Joykishan's github stats" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsonsare&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
 
