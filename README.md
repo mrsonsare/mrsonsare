@@ -1,4 +1,4 @@
-<img align="auto" src="https://i.ibb.co/J5FXJDj/1-20230710-014449-0000.jpg" alt="video" width="auto" height="auto">
+<img align="auto" src="" alt="video" width="auto" height="auto">
 <h1 align="center">Hi 👋, I'm Mr.Sonsare</h1>
 <h3 align="center">A passionate frontend developer from India</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsonsare&label=Profile%20views&color=0e75b6&style=flat" alt="mrsonsare" /> </p>
 
